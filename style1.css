@@ -1,0 +1,33 @@
+h1{
+    /* border: 2px solid; */
+    /* display: inline; */
+    /* margin-left: 100px; */
+    /* padding-top: 10px; */
+    /* border: 2px; */
+    border: 4px;
+    border-style: solid;
+    /* border: dashed; */
+    /* border-style: dotted; */
+    /* border-style: double; */
+    /* border-style: groove; */
+    /* border-width: 5px; */
+    border-left-style: dotted;
+    border-left-width: 10px;
+    border-top-style: dashed;
+    border-top-width: 20px;
+    border-right-style: solid;
+    border-right-width: 30px;
+    border-bottom-style: double;
+    border-bottom-width: 50px;  
+}
+h2{
+    border-style: solid;
+    /* border-width: thick; */
+    /* border-width: thin; */
+    /* border-width: medium; */
+    border-top-width: thick;
+    border-left-width: initial;
+    border-right-width: medium;
+    border-bottom-width: thin;
+    display: inline;
+}

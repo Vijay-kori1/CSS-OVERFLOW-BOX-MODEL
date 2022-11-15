@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/banff-517747003-1494616292.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-attachment: scroll;
+}
+h1{
+    background-color: yellow;
+    color: #185683;
+}
+h2{
+    background-color: yellow;
+}
+.one{
+    width: 800px;
+    height: 800px;
+    background-color: yellowgreen;
+    /* background-image: url(images/banff-517747003-1494616292.jpg); */
+    background-size: 800px 600px;
+    background-repeat: no-repeat;
+    overflow: scroll;
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* background-attachment: scroll; */
+    background-attachment: fixed;
+
+
+}
+p{
+    font-size: 40px;
+}
